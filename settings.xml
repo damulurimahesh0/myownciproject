@@ -25,7 +25,6 @@
       <password>${NEXUS_PASS}</password>
     </server>
   </servers>
-
   <mirrors>
     <mirror>
       <id>${CENTRAL_REPO}</id>
